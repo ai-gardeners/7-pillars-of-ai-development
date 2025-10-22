@@ -1,4 +1,4 @@
-# 7 Pillars of AI Development
+# 7 Pillars of AI Engineering
 ## White Paper
 
 The design of principles we discuss rests on passionate engineering discipline leading us to a beautiful future.
